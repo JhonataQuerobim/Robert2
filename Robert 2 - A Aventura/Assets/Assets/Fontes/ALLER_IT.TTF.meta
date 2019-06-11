@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: da26a683b9ca08143a985969bfac3d2b
+timeCreated: 1499569402
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Aller
+  fontNames:
+  - Aller
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6c699131fa311b5468c7e6341f8aa186, type: 3}
+  - {fileID: 12800000, guid: 6ebbfb3f02b836d4d85a8a984a28cf51, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: da01e0c1d77cae4489a944f032366fdc
+timeCreated: 1499569402
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Aller Light
+  fontNames:
+  - Aller Light
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

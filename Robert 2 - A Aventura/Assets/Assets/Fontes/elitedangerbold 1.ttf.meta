@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 832e7a371d951ec4f9f52c26a8e9b796
+timeCreated: 1499571026
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Elite Danger Bold
+  fontNames:
+  - Elite Danger Bold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4bf6b144267a08f4a8fa7902d97e20e7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

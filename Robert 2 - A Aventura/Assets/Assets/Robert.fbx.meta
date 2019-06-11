@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 29273d36b669dda43b6f24b6c938143c
+timeCreated: 1499443069
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Array
+    100002: CINEMA_4D_Editor
+    100004: Circle
+    100006: Cylinder
+    100008: Disc
+    100010: Lathe
+    100012: Lathe_1_1
+    100014: Lathe_1_10
+    100016: Lathe_1_11
+    100018: Lathe_1_12
+    100020: Lathe_1_13
+    100022: Lathe_1_2
+    100024: Lathe_1_3
+    100026: Lathe_1_4
+    100028: Lathe_1_5
+    100030: Lathe_1_6
+    100032: Lathe_1_7
+    100034: Lathe_1_8
+    100036: Lathe_1_9
+    100038: Physical_Sky
+    100040: //RootNode
+    400000: Array
+    400002: CINEMA_4D_Editor
+    400004: Circle
+    400006: Cylinder
+    400008: Disc
+    400010: Lathe
+    400012: Lathe_1_1
+    400014: Lathe_1_10
+    400016: Lathe_1_11
+    400018: Lathe_1_12
+    400020: Lathe_1_13
+    400022: Lathe_1_2
+    400024: Lathe_1_3
+    400026: Lathe_1_4
+    400028: Lathe_1_5
+    400030: Lathe_1_6
+    400032: Lathe_1_7
+    400034: Lathe_1_8
+    400036: Lathe_1_9
+    400038: Physical_Sky
+    400040: //RootNode
+    2300000: Cylinder
+    2300002: Disc
+    2300004: Lathe
+    2300006: Lathe_1_1
+    2300008: Lathe_1_10
+    2300010: Lathe_1_11
+    2300012: Lathe_1_12
+    2300014: Lathe_1_13
+    2300016: Lathe_1_2
+    2300018: Lathe_1_3
+    2300020: Lathe_1_4
+    2300022: Lathe_1_5
+    2300024: Lathe_1_6
+    2300026: Lathe_1_7
+    2300028: Lathe_1_8
+    2300030: Lathe_1_9
+    3300000: Cylinder
+    3300002: Disc
+    3300004: Lathe
+    3300006: Lathe_1_1
+    3300008: Lathe_1_10
+    3300010: Lathe_1_11
+    3300012: Lathe_1_12
+    3300014: Lathe_1_13
+    3300016: Lathe_1_2
+    3300018: Lathe_1_3
+    3300020: Lathe_1_4
+    3300022: Lathe_1_5
+    3300024: Lathe_1_6
+    3300026: Lathe_1_7
+    3300028: Lathe_1_8
+    3300030: Lathe_1_9
+    4300000: Disc
+    4300002: Lathe_1_13
+    4300004: Lathe_1_12
+    4300006: Lathe_1_11
+    4300008: Lathe_1_10
+    4300010: Lathe_1_9
+    4300012: Lathe_1_8
+    4300014: Lathe_1_7
+    4300016: Lathe_1_6
+    4300018: Lathe_1_5
+    4300020: Lathe_1_4
+    4300022: Lathe_1_3
+    4300024: Lathe_1_2
+    4300026: Lathe_1_1
+    4300028: Lathe
+    4300030: Cylinder
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
